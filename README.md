@@ -1,6 +1,6 @@
 # practice-tutorial
 practice tutorial
-# Creating a tutorial
+# CREATING A TUTORIAL ON GITHUB
 ## First create a repository on GitHub
 Navigate to repositories on your account and click **New** on right side of screen![enter image description here](https://github.com/mwcolbert/practice-tutorial/blob/main/images/shot_1.png?raw=true)
 
